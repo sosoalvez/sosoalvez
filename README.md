@@ -1,16 +1,15 @@
-### Hi there 👋
+### bem vindos ao meu perfil ❤️‍🔥
 
-<!--
-**sosoalvez/sosoalvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é sophia alves
 
-Here are some ideas to get you started:
+- estou estudando no [alura](httsp://www.alura.com.br)
+- estou me desemvolvendo na linguagem javascript
+- ultilizo esse espaço para minha organização e compartilhamento dosmeus projetos desenvovidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voçê entrar em contato comigo 📫
+
+oliveira.alves.sophia@escola.pr.gov.br
+
+@sosoalvez._
+
+![](https://media.tenor.com/EhfeRr7-yvEAAAAC/gato-preto-leite.gif)
